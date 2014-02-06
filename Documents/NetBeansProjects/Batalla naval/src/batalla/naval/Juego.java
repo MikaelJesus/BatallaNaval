@@ -6,12 +6,14 @@
 
 package batalla.naval;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Alumnos
  */
-public interface EstadoBarco {
-    public abstract boolean ValidaDisparo();
-    public abstract boolean ValidaHundimiento();
-    
+public class Juego {
+    public Juego(){
+        
+    }
 }
